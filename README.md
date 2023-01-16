@@ -39,7 +39,7 @@
     <div align=center>
         <h1>🛠️ My Skills</h1>
         <details align="left" open> 
-            <summary><b>👉 Programming languages</b></summary>
+            <summary><b>Programming languages</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://www.java.com/en/">
@@ -68,7 +68,7 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>👉 Frameworks</b></summary>
+            <summary><b>Frameworks</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://reactjs.org/" target="_blank"> 
@@ -81,7 +81,7 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>👉 Databases & Cloud Hosting</b></summary>
+            <summary><b>Databases & Cloud Hosting</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://www.mysql.com/">
@@ -98,7 +98,7 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>👉 Blockchain</b></summary>
+            <summary><b>Blockchain</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://www.algorand.com/">
@@ -107,7 +107,7 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>👉 Software & Tools</b></summary>
+            <summary><b>Software & Tools</b></summary>
             <br/>
             <p align="left"> 
                 <a href="#">
@@ -133,15 +133,19 @@
         </details>
         <br>
         <br>
+        <br>
     </div>
     <div align=center>
         <h1>📊 Contribution Activity</h1>
-        <img src="https://github-readme-stats.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
-        <br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" width="425" />
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" width="450" />
-        <br>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
+        </div>
+        <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" width="425" />
+        <div>
+        <div>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" width="450" />
+        <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
     </div>
 </div>
