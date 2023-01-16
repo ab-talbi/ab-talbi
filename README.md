@@ -30,7 +30,7 @@
     <div align=center>
         <p>
             <strong>
-                Computer Science Student at Cady Ayyad University, Full-Stack Developer, Algorand Blockchain Developer.
+                Computer Science Student at Cady Ayyad University, Full-Stack Developern, Algorand Blockchain Developer.
             </strong>
         </p>
         <br>
@@ -134,7 +134,6 @@
         <br>
         <br>
         <br>
-        <br>
     </div>
     <div align=center>
         <h1>📊 Contribution Activity</h1>
@@ -149,4 +148,6 @@
         <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
     </div>
+    <br>
+    <br>
 </div>
