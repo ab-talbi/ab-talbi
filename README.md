@@ -49,7 +49,7 @@
                     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
                 <a href="https://www.javascript.com/">
-                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=orange"/>
+                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
                 </a>
                 <a href="https://www.typescriptlang.org/">
                     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -59,6 +59,9 @@
                 </a>
                 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
                     <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+                </a>
+                <a href="https://www.w3schools.com/c/">
+                    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
                 </a>
                 <a href="https://python.org/">
                     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
@@ -72,7 +75,7 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>Frameworks / Libraries</b></summary>
+            <summary><b>Frameworks and Libraries</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://spring.io/" target="_blank"> 
