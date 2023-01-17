@@ -46,7 +46,7 @@
             <br/>
             <p align="left"> 
                 <a href="https://www.java.com/en/">
-                    <img alt="Java" src="https://img.shields.io/badge/Java-f0db00?style=for-the-badge&logo=java&logoColor=white"/>
+                    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
                 <a href="https://www.javascript.com/">
                     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=orange"/>
@@ -58,16 +58,16 @@
                     <img alt="PHP" src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
                 </a>
                 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-                    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-FAEBD7?style=for-the-badge&logo=csharp&logoColor=darkblue"/>
+                    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
                 </a>
                 <a href="https://python.org/">
                     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
                 </a>
                 <a href="https://www.w3schools.com/html/">
-                    <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html&logoColor=black"/>
+                    <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
                 </a>
                 <a href="https://www.w3schools.com/css/">
-                    <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=darkgreen"/>
+                    <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
                 </a>
             </p>
         </details>
@@ -79,10 +79,13 @@
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
                 </a>
                 <a href="https://reactjs.org/" target="_blank"> 
-                    <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+                    <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
                 </a>
                 <a href="https://vuejs.org/" target="_blank"> 
                     <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+                </a>
+                <a href="https://getbootstrap.com/" target="_blank"> 
+                    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
                 </a>
             </p>
         </details>
