@@ -16,6 +16,9 @@
             <a href="https://twitter.com/talbi_ayoub_" target="_blank">
                 <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
             </a>
+            <a href="https://instagram.com/ab_talbi" target="_blank">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+            </a>
         </p>
         <a href="#">
             <img src="https://komarev.com/ghpvc/?username=ab-talbi&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
@@ -39,31 +42,32 @@
     <div align=center>
         <h1>🛠️ My Skills</h1>
         <details align="left" open> 
-            <summary><b>Programming languages</b></summary>
+            <summary><b>Languages</b></summary>
             <br/>
             <p align="left"> 
                 <a href="https://www.java.com/en/">
                     <img alt="Java" src="https://img.shields.io/badge/Java-f0db00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
-                &emsp;
                 <a href="https://www.javascript.com/">
-                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white"/>
+                    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=orange"/>
                 </a>
-                &emsp;
                 <a href="https://www.typescriptlang.org/">
                     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0175C2?style=for-the-badge&logo=typescript&logoColor=white"/>
                 </a>
-                &emsp;
                 <a href="https://php.net/">
                     <img alt="PHP" src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
                 </a>
-                &emsp;
                 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-                    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-FAEBD7?style=for-the-badge&logo=csharp&logoColor=darkgreen"/>
+                    <img alt="CSharp" src="https://img.shields.io/badge/CSharp-FAEBD7?style=for-the-badge&logo=csharp&logoColor=darkblue"/>
                 </a>
-                &emsp;
                 <a href="https://python.org/">
                     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+                </a>
+                <a href="https://www.w3schools.com/html/">
+                    <img alt="HTML" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html&logoColor=black"/>
+                </a>
+                <a href="https://www.w3schools.com/css/">
+                    <img alt="CSS" src="https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css&logoColor=darkgreen"/>
                 </a>
             </p>
         </details>
@@ -74,7 +78,6 @@
                 <a href="https://reactjs.org/" target="_blank"> 
                     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
                 </a>
-                &emsp;
                 <a href="https://spring.io/" target="_blank"> 
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
                 </a>
@@ -87,11 +90,9 @@
                 <a href="https://www.mysql.com/">
                     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
                 </a>
-                &emsp;
                 <a href="https://www.oracle.com/">
                     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
                 </a>
-                &emsp;
                 <a href="https://www.github.com">
                     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
                 </a>
@@ -113,19 +114,15 @@
                 <a href="#">
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 </a>
-                &emsp;
                 <a href="#">
                     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
                 </a>
-                &emsp;
                 <a href="#">
                     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
                 </a>
-                &emsp;
                 <a href="#">
                     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
                 </a>
-                &emsp;
                 <a href="#">
                     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
                 </a>
