@@ -30,7 +30,7 @@
     <div align=center>
         <p>
             <strong>
-                Computer Science Student at Cady Ayyad University, Full-Stack Developern, Algorand Blockchain Developer.
+                Computer Science Student at Cady Ayyad University, Full-Stack Developer, Algorand Blockchain Developer.
             </strong>
         </p>
         <br>
