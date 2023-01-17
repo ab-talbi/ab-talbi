@@ -72,14 +72,17 @@
             </p>
         </details>
         <details align="left" open> 
-            <summary><b>Frameworks</b></summary>
+            <summary><b>Frameworks / Libraries</b></summary>
             <br/>
             <p align="left"> 
+                <a href="https://spring.io/" target="_blank"> 
+                    <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
+                </a>
                 <a href="https://reactjs.org/" target="_blank"> 
                     <img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white">
                 </a>
-                <a href="https://spring.io/" target="_blank"> 
-                    <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
+                <a href="https://vuejs.org/" target="_blank"> 
+                    <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
                 </a>
             </p>
         </details>
