@@ -1,5 +1,8 @@
 <div>
     <div align=center>
+        <p align=center>
+            <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150">
+        </p>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I+am+Ayoub+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Developer;Algorand+Blockchain+Developer;" alt="Headline" />
     </div>
     <div align=center>
@@ -37,6 +40,7 @@
         <p>
             <strong>
                 Computer Science Student at Cady Ayyad University, Full-Stack Developer, Algorand Blockchain Developer.
+                <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
         </p>
         <br>
