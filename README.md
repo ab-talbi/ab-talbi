@@ -151,13 +151,13 @@
     <div align=center>
         <h1>📊 Contribution Activity</h1>
         <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
         </div>
         <div>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" width="425" />
         <div>
         <div>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" width="450" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" width="450" />
         <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
     </div>
