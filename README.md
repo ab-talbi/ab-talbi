@@ -43,7 +43,7 @@
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
             <div>
-                <img src="https://github.com/ab-talbi/ab-talbi/blob/output/github-contribution-grid-snake.gif" />
+                <img src="https://github.com/ab-talbi/ab-talbi/blob/output/github-contribution-grid-snake.svg" />
             </div>
         </p>
         <br>
