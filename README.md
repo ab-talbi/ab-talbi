@@ -42,6 +42,9 @@
                 Computer Science Student at Cady Ayyad University, Full-Stack Developer, Algorand Blockchain Developer.
                 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
             </strong>
+            <div>
+                <img src="https://github.com/ab-talbi/ab-talbi/blob/output/github-contribution-grid-snake.gif" />
+            </div>
         </p>
         <br>
     </div>
@@ -150,6 +153,7 @@
     </div>
     <div align=center>
         <h1>📊 Contribution Activity</h1>
+        <br>
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
         </div>
