@@ -7,24 +7,24 @@
     </div>
     <div align=center>
         <p align=center>
-            <a href="https://www.linkedin.com/in/ayoubtalbi" target="_blank">
-                <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            <a href="https://www.linkedin.com/in/ayoubtalbi">
+                <img alt="LinkedIn" title="ayoubtalbi" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
             </a>
-            <a href="https://discordapp.com/users/761317989265965176" target="_blank">
-                <img src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
+            <a href="https://discordapp.com/users/761317989265965176">
+                <img title="ayoub on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
             </a>	
-            <a href="mailto:ayoubtalbi787@gmail.com?subject=Github%20Contact%20Us&body=Hi%20Ayoub," target="_blank">
+            <a href="mailto:ayoubtalbi787@gmail.com?subject=Github%20Contact%20Us&body=Hi%20Ayoub,">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
-            <a href="https://twitter.com/talbi_ayoub_" target="_blank">
-                <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
+            <a href="https://twitter.com/talbi_ayoub_">
+                <img title="talbi_ayoub_" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
             </a>
-            <a href="https://instagram.com/ab_talbi" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+            <a href="https://instagram.com/ab_talbi">
+                <img title="ab_talbi" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
             </a>
         </p>
-        <a href="#">
-            <img src="https://komarev.com/ghpvc/?username=ab-talbi&label=Views&color=brightgreen&style=for-the-badge" alt="views on github" />
+        <a href="https://github.com/ab-talbi?tab=views">
+            <img alt="views on github" title="View of my profile" src="https://komarev.com/ghpvc/?username=ab-talbi&label=Views&color=brightgreen&style=for-the-badge" />
         </a>
         <a href="https://github.com/ab-talbi?tab=repositories&sort=stargazers">
             <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ab-talbi"/>
@@ -46,7 +46,6 @@
                 <img src="https://github.com/ab-talbi/ab-talbi/blob/output/github-contribution-grid-snake.svg" />
             </div>
         </p>
-        <br>
     </div>
     </br>
     <div align=center>
@@ -88,16 +87,16 @@
             <summary><b>Frameworks and Libraries</b></summary>
             <br/>
             <p align="left"> 
-                <a href="https://spring.io/" target="_blank"> 
+                <a href="https://spring.io/"> 
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
                 </a>
-                <a href="https://reactjs.org/" target="_blank"> 
+                <a href="https://reactjs.org/"> 
                     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
                 </a>
-                <a href="https://vuejs.org/" target="_blank"> 
+                <a href="https://vuejs.org/"> 
                     <img alt="VueJs" src="https://img.shields.io/badge/Vue.Js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
                 </a>
-                <a href="https://getbootstrap.com/" target="_blank"> 
+                <a href="https://getbootstrap.com/"> 
                     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
                 </a>
             </p>
@@ -149,19 +148,18 @@
         </details>
         <br>
         <br>
-        <br>
     </div>
     <div align=center>
         <h1>📊 Contribution Activity</h1>
         <br>
         <div>
-            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="ab-talbi" width="425" height="200" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ab-talbi" width="550" />
         </div>
         <div>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" width="425" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
         <div>
         <div>
-            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" width="450" />
+            <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
         <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
     </div>
