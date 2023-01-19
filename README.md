@@ -139,6 +139,9 @@
                     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
                 </a>
                 <a href="#">
+                    <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ%20IDEA-34495E.svg?style=for-the-badge&logo=IntelliJ-IDEA&logoColor=white">
+                </a>
+                <a href="#">
                     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
                 </a>
                 <a href="#">
