@@ -53,9 +53,9 @@
         <details align="left" open> 
             <summary><b>Languages</b></summary>
             <br/>
-            <p align="left"> 
+            <p align="left">
                 <a href="https://www.java.com/en/">
-                    <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+                    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
                 <a href="https://www.javascript.com/">
                     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
