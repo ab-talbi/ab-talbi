@@ -50,10 +50,10 @@
     </br>
     <div align=center>
         <h1>🛠️ My Skills</h1>
-        <details align="left" open> 
+        <details align="" open> 
             <summary><b>Languages</b></summary>
             <br/>
-            <p align="left">
+            <p align="">
                 <a href="https://www.java.com/en/">
                     <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/-JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 </a>
@@ -83,10 +83,10 @@
                 </a>
             </p>
         </details>
-        <details align="left" open> 
+        <details align="" open> 
             <summary><b>Frameworks and Libraries</b></summary>
             <br/>
-            <p align="left"> 
+            <p align=""> 
                 <a href="https://spring.io/"> 
                     <img alt="Spring" src="https://img.shields.io/badge/Spring-177245?style=for-the-badge&logo=spring&logoColor=white">
                 </a>
@@ -101,10 +101,10 @@
                 </a>
             </p>
         </details>
-        <details align="left" open> 
+        <details align="" open> 
             <summary><b>Databases & Cloud Hosting</b></summary>
             <br/>
-            <p align="left"> 
+            <p align=""> 
                 <a href="https://www.mysql.com/">
                     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
                 </a>
@@ -116,19 +116,19 @@
                 </a>
             </p>
         </details>
-        <details align="left" open> 
+        <details align="" open> 
             <summary><b>Blockchain</b></summary>
             <br/>
-            <p align="left"> 
+            <p align=""> 
                 <a href="https://www.algorand.com/">
                     <img alt="Algorand" src="https://img.shields.io/badge/Algorand-00000F?style=for-the-badge&logo=algorand&logoColor=white">
                 </a>
             </p>
         </details>
-        <details align="left" open> 
+        <details align="" open> 
             <summary><b>Software & Tools</b></summary>
             <br/>
-            <p align="left"> 
+            <p align=""> 
                 <a href="#">
                     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
                 </a>
