@@ -158,9 +158,11 @@
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="ab-talbi" width="550" />
         </div>
+        <br>
         <div>
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-talbi&theme=algolia&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" width="550" />
         <div>
+        <br>
         <div>
             <img src="https://github-readme-stats-smoky-sigma.vercel.app/api/top-langs?username=ab-talbi&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=algolia" alt="GitHub Most Used Languages" width="550" />
         <div>
