@@ -13,7 +13,7 @@
             <a href="https://discordapp.com/users/761317989265965176">
                 <img title="ayoub on discord" src="https://img.shields.io/badge/Discord-2962FF?style=for-the-badge&logo=discord&logoColor=white" alt="example"/>
             </a>	
-            <a href="mailto:ayoubtalbi787@gmail.com?subject=Github%20Contact%20Us&body=Hi%20Ayoub,">
+            <a href="mailto:ayoubtalbi787@gmail.com?subject=Github%20Contact&body=Hi%20Ayoub,">
                 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
             </a>
             <a href="https://twitter.com/talbi_ayoub_">
