@@ -111,8 +111,8 @@
                 <a href="https://www.oracle.com/">
                     <img alt="Oracle" src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white">
                 </a>
-                <a href="https://www.oracle.com/">
-                    <img alt="Oracle" src="https://img.shields.io/badge/PostgreSQL-f80000?style=for-the-badge&logo=postgresql&logoColor=white">
+                <a href="https://www.postgresql.org">
+                    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0175C2?style=for-the-badge&logo=postgresql&logoColor=white">
                 </a>
                 <a href="https://www.github.com">
                     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
